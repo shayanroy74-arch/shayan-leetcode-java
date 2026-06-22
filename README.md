@@ -51,16 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
