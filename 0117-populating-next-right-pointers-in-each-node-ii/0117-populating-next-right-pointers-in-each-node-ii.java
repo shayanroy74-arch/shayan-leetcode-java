@@ -28,7 +28,7 @@ class Solution {
             return null;
 
         Queue<Node> q = new LinkedList<>();
-        q.offer(root);
+        q.add(root);
 
         while (!q.isEmpty()) {
 
