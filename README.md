@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
