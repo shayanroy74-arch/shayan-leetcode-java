@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
