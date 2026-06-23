@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
