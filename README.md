@@ -46,15 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -65,6 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
