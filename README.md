@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
