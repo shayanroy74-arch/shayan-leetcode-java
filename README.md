@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -129,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
