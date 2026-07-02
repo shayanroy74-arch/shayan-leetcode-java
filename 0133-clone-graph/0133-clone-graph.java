@@ -51,19 +51,9 @@ class Solution {
 
                     }
                     c.neighbors = new ArrayList<>(neighbors);
-
-                
-            
-
         }
 
         return fnode;
     }
 }
 
-/*System.out.println(node.val);
-        System.out.println(node.neighbors);
-        if(!node.neighbors.isEmpty()){
-            System.out.println(node.neighbors.get(0));
-            System.out.println(node.neighbors.get(0).neighbors);
-        }*/
