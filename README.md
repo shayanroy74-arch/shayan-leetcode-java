@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0205-isomorphic-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
