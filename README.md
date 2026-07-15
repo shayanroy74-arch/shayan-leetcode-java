@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union-Find
 |  |
@@ -168,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
