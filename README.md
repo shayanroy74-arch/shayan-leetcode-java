@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
