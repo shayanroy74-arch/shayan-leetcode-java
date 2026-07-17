@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
