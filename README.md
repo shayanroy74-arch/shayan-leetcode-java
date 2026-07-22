@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shayanroy74-arch/shayan-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union-Find
 |  |
